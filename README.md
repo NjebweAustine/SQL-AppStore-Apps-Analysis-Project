@@ -101,7 +101,7 @@ FROM (
 ) AS a
 WHERE a.rank = 1;
 ```
-
+---
 
 ## Results and their Recommendations
 Based on the analysis done, the following are the results of our major questions and their respective recommendations;
